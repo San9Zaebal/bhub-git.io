@@ -1,0 +1,25 @@
+body{
+    background-image: url(../img/back.jpg);
+
+}
+    
+
+.nav-link{
+    color: brown;
+}
+
+.navbar .nav-link.active{
+    color: brown;
+}
+
+.navbar-brand img{
+    width: 55px; 
+
+}
+
+.navbar-toggler{
+    color: aliceblue;
+}
+.dok{
+    color: aliceblue;
+}
